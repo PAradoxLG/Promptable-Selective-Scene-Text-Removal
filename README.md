@@ -17,10 +17,7 @@ text removal results. This work provides a strong baseline for the PSSTR task.
 ### Visual Results
 > Examples of prompt removal on different scenarios
 
-| Prompt | Input Image | Segmentation Mask | Output Image |
-|:---:|:---:|:---:|:---:|
-| Text | ![input](image/input_1.png) |  ![mask](image/mask_1.png) | ![output](image/output_1.png) |
-| Point | ![input](image/input_2.png) | ![mask](image/mask_2.png) | ![output](image/output_2.png) |
+![example](image/example.pdf)
 
 ---
 
