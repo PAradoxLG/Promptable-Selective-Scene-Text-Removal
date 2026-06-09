@@ -17,7 +17,7 @@ text removal results. This work provides a strong baseline for the PSSTR task.
 ### Visual Results
 > Examples of prompt removal on different scenarios
 
-![example](image/example.pdf)
+![example](image/Multi-prompt.pdf)
 
 ---
 
