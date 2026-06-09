@@ -1,0 +1,1 @@
+python .\train.py --promptable --erase_mode --unimask_decoder_weight work_dirs/2025-01-06__220108/176.pth
