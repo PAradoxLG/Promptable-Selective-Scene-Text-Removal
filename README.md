@@ -3,8 +3,8 @@
 ---
 
 ## Project Links
-| Paper | Code |
-|:---:|:---:|
+| Paper | Code | Bibtex |
+|:---:|:---:|:---:|
 | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326011015) | [Code](https://github.com/PAradoxLG/Promptable-Selective-Scene-Text-Removal)| [Bibtex](https://github.com/PAradoxLG/Promptable-Selective-Scene-Text-Removal#citation) |---
 
 ## Description
