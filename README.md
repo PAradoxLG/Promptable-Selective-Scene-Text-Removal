@@ -19,8 +19,8 @@ text removal results. This work provides a strong baseline for the PSSTR task.
 
 | Prompt | Input Image | Segmentation Mask | Output Image |
 |:---:|:---:|:---:|:---:|
-| Text | ![input](assets/input_1.png) |  ![mask](assets/mask_1.png) | ![output](assets/output_1.png) |
-| Point | ![input](assets/input_2.png) | ![mask](assets/mask_2.png) | ![output](assets/output_2.png) |
+| Text | ![input](image/input_1.png) |  ![mask](image/mask_1.png) | ![output](image/output_1.png) |
+| Point | ![input](image/input_2.png) | ![mask](image/mask_2.png) | ![output](image/output_2.png) |
 
 ---
 
